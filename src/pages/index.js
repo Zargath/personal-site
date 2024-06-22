@@ -15,7 +15,7 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <h1 style={headingStyles}>
-        profile.eshaar.me
+        eshaar.me
       </h1>
     </main>
   )
